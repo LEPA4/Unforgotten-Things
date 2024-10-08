@@ -11,8 +11,12 @@
             "id": "86f8746cb84fafaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World/Dieties.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -164,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f6eb624c608e1ee",
+  "active": "8c767f58d76e7fa8",
   "lastOpenFiles": [
+    "World/Dieties.md",
     "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",
     "Excalidraw",
     "Fauna",
