@@ -6,17 +6,14 @@
       {
         "id": "f50480ac055e6b0d",
         "type": "tabs",
+        "dimension": 59.60591133004927,
         "children": [
           {
-            "id": "86f8746cb84fafaa",
+            "id": "a7cdfb7bc16d84ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Dieties.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -24,6 +21,7 @@
       {
         "id": "facbc00b1217590c",
         "type": "tabs",
+        "dimension": 40.39408866995074,
         "children": [
           {
             "id": "8c767f58d76e7fa8",
@@ -57,6 +55,20 @@
             }
           },
           {
+            "id": "7af33a28e8cbf8d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "829d540737922260",
+        "type": "tabs",
+        "children": [
+          {
             "id": "7b1c46c6036eaa96",
             "type": "leaf",
             "state": {
@@ -69,14 +81,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "7af33a28e8cbf8d1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -140,7 +144,7 @@
             }
           },
           {
-            "id": "80c4e5a74f063c3d",
+            "id": "b7f0b7ac0add1439",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -152,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c767f58d76e7fa8",
+  "active": "b7f0b7ac0add1439",
   "lastOpenFiles": [
-    "World/Dieties.md",
+    "Link2.md",
+    "Test.md",
+    "Link.md",
+    "Another Test.md",
+    "Test Note.md",
+    "World/Deities/Deities.md",
+    "World/Deities/Chaos.md",
+    "World/Deities",
     "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",
     "Excalidraw",
     "Fauna",
