@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "51714c550ae585e9",
+        "id": "f50480ac055e6b0d",
         "type": "tabs",
+        "dimension": 59.60591133004927,
         "children": [
           {
-            "id": "6c8f06be53ca59b5",
+            "id": "a7cdfb7bc16d84ba",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/types.json",
-                "staged": false
+                "file": "Chaos.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "facbc00b1217590c",
+        "type": "tabs",
+        "dimension": 40.39408866995074,
+        "children": [
+          {
+            "id": "8c767f58d76e7fa8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -52,7 +69,7 @@
         ]
       },
       {
-        "id": "4ad0cf5ef81a5767",
+        "id": "829d540737922260",
         "type": "tabs",
         "children": [
           {
@@ -90,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chaos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +146,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chaos.md"
+              }
             }
           },
           {
-            "id": "80c4e5a74f063c3d",
+            "id": "b7f0b7ac0add1439",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -143,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,20 +176,25 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8f06be53ca59b5",
+  "active": "a7cdfb7bc16d84ba",
   "lastOpenFiles": [
-    "Untitled/Untitled.md",
-    "Excalidraw/Drawing 2024-10-09 20.56.05.excalidraw.md",
-    "Excalidraw",
-    "Untitled",
+    "Hello.md",
+    "Chaos.md",
+    "Anaan.md",
+    "Link2.md",
     "Test.md",
-    "World/Dieties.md",
+    "Link.md",
+    "Another Test.md",
+    "Test Note.md",
+    "World/Deities/Deities.md",
+    "World/Deities/Chaos.md",
+    "World/Deities",
     "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",
+    "Excalidraw",
     "Fauna",
     "Flora",
     "Places",
