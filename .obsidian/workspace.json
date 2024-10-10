@@ -11,8 +11,11 @@
             "id": "6c8f06be53ca59b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +160,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cac73c8d62350c21",
+  "active": "6c8f06be53ca59b5",
   "lastOpenFiles": [
     "Test.md",
     "World/Dieties.md",
