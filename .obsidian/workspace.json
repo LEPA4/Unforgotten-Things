@@ -6,15 +6,46 @@
       {
         "id": "51714c550ae585e9",
         "type": "tabs",
+        "dimension": 50.084317032040474,
         "children": [
           {
             "id": "6c8f06be53ca59b5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/types.json",
-                "staged": false
+                "file": "Religion/Chaos/Iinan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b4757054c827282",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc61113be363cb12",
+        "type": "tabs",
+        "dimension": 49.915682967959526,
+        "children": [
+          {
+            "id": "ccd56d5f5296065a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Chaos/Chaos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -90,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Chaos/Iinan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Religion/Chaos/Iinan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Religion/Chaos/Iinan.md"
+              }
             }
           },
           {
@@ -137,13 +172,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "770a57daa60cdee7",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,16 +200,25 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6c8f06be53ca59b5",
+  "active": "80c4e5a74f063c3d",
   "lastOpenFiles": [
+    "Religion/Chaos/Chaos.md",
+    "Religion/Chaos/Iinan.md",
+    "Religion/Chaos/Aanan.md",
+    "Ahda'an.md",
     "Chaos.md",
+    "Religion/Chaos/Ounan.md",
+    "Religion/Chaos/Venan.md",
+    "Religion/Chaos",
+    "Religion",
     "Untitled/Untitled.md",
     "Excalidraw/Drawing 2024-10-09 20.56.05.excalidraw.md",
     "Excalidraw",
-    "Untitled",
     "Test.md",
     "World/Dieties.md",
     "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",

@@ -1,5 +1,6 @@
 {
   "cssTheme": "Typewriter",
   "baseFontSize": 14,
-  "textFontFamily": "Times New Roman"
+  "textFontFamily": "Times New Roman",
+  "interfaceFontFamily": "Times New Roman"
 }
