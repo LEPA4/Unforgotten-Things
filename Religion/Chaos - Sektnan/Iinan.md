@@ -4,7 +4,7 @@ tags:
   - religion
 ---
 ## Introduction
-Iinan is often attributed to being the first personality of [[Chaos]].
+Iinan is often attributed to being the first personality of [[Chaos - Sektnan|Chaos]].
 
 This personality is capable of altering the physical. Everything except thoughts and ideas are managed by him, for that task was passed along to the other personalities upon their creation.
 

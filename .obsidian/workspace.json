@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "44e8f4bbc2dd9b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ebf6986e1c88c3",
+        "type": "tabs",
+        "dimension": 51.231527093596064,
+        "children": [
+          {
+            "id": "a9aa318610c31986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Chaos - Sektnan/Iinan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ae25213580aa12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/Life Essence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ef6195234fcb963",
+        "type": "tabs",
+        "dimension": 48.76847290640394,
+        "children": [
+          {
+            "id": "e78f49b88b698bde",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/darlal-switcher-plus/main.js",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3d38ea87f833102",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc6713acafab56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac73c8d62350c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7af33a28e8cbf8d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "829d540737922260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1c46c6036eaa96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#deity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97389065229a485d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6db35dfdac8c2c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0109a3aec92bc561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3923605bde3cb31f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8f0e10f09509a23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7f6eb624c608e1ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7f0b7ac0add1439",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "e78f49b88b698bde",
+  "lastOpenFiles": [
+    "Religion/Chaos - Sektnan/Chaos - Sektnan.md",
+    "Religion/Chaos - Sektnan/Iinan.md",
+    "Religion/Chaos - Sektnan/Ounan.md",
+    "Systems/Life Essence.md",
+    "Religion/Chaos - Sektnan/Aanan.md",
+    "Religion/Chaos - Sektnan/Venan.md",
+    "World/Ages.md",
+    "World/Ahda'an.md",
+    "Creatures/Races/Ardians.md",
+    "Systems",
+    "Creatures/Races",
+    "Creatures",
+    "World",
+    "conflict-files-obsidian-git.md",
+    "Religion/Chaos - Sektnan",
+    "Religion",
+    "Chaos.md",
+    "Hello.md",
+    "Anaan.md",
+    "Link2.md",
+    "Test.md",
+    "Link.md",
+    "Another Test.md",
+    "Test Note.md",
+    "World/Deities/Deities.md",
+    "World/Deities/Chaos.md",
+    "World/Deities",
+    "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",
+    "Excalidraw",
+    "Fauna",
+    "Flora",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

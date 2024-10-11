@@ -23,3 +23,7 @@ Because Iinan has the most power— the ability to alter anything— the other p
 
 There are constant shifts in power within Chaos as one personality may become more powerful, or have more control, than another. This, too, will lead to problems that often impact [[Ahda'an]].
 ## Rules
+1. No personality shall interfere directly with the doing of another
+2. No personality shall destroy what is created by another
+3. No personality shall make major changes without the approval of the majority
+While they did form this in a pact, they had formed this pact in their normal states (unswitched); therefore, it does not apply when the personality becomes their counterpart.
