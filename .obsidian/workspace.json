@@ -9,18 +9,20 @@
         "dimension": 50.084317032040474,
         "children": [
           {
-            "id": "6c8f06be53ca59b5",
+            "id": "1b4757054c827282",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-activity-history/data.json",
-                "staged": false
+                "file": "Religion/Chaos - Sektnan/Aanan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "1b4757054c827282",
+            "id": "55755500507edc84",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -35,19 +37,33 @@
         "dimension": 49.915682967959526,
         "children": [
           {
-            "id": "ccd56d5f5296065a",
+            "id": "cfd9d10da4c1e3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Chaos/Chaos.md",
+                "file": "Religion/Chaos - Sektnan/Ounan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "804bb5b91c24af78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Chaos - Sektnan/Chaos - Sektnan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Chaos - Sektnan/Aanan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Religion/Chaos - Sektnan/Aanan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Religion/Chaos - Sektnan/Aanan.md"
+              }
             }
           },
           {
@@ -199,8 +219,23 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6c8f06be53ca59b5",
+  "active": "1b4757054c827282",
   "lastOpenFiles": [
+    "Religion/Chaos - Sektnan/Chaos - Sektnan.md",
+    "Religion/Chaos - Sektnan/Aanan.md",
+    "Religion/Chaos - Sektnan/Iinan.md",
+    "Religion/Chaos - Sektnan/Ounan.md",
+    "Religion/Chaos - Sektnan/Venan.md",
+    "Systems/Life Essence.md",
+    "World/Ages.md",
+    "World/Ahda'an.md",
+    "conflict-files-obsidian-git.md",
+    "World",
+    "Systems",
+    "Religion/Chaos - Sektnan",
+    "Creatures/Races/Ardians.md",
+    "Creatures/Races",
+    "Creatures",
     "Religion/Chaos/Iinan.md",
     "Religion/Chaos/Chaos.md",
     "Religion/Chaos/Aanan.md",
@@ -218,9 +253,6 @@
     "Excalidraw/Drawing 2024-10-07 11.28.21.excalidraw.md",
     "Fauna",
     "Flora",
-    "Places",
-    "Races",
-    "World",
     "create a link.md",
     "Welcome.md"
   ]

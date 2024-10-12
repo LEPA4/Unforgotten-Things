@@ -4,7 +4,7 @@ tags:
   - religion
 ---
 ## Introduction
-Chaos (known as Sektnan) is split into four subsets, commonly referred to as the personalities of Chaos by the [[Ardians|Ardian]] religious figures.
+Chaos (known as Sektnan) is split into four subsets, commonly referred to as the personalities of Chaos.
 These four personalities are:
 1. [[Iinan]] | Creative
 2. [[Aanan]] | Lawful
