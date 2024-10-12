@@ -12,12 +12,10 @@
             "id": "6c8f06be53ca59b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Religion/Chaos/Iinan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": ".obsidian/plugins/obsidian-activity-history/data.json",
+                "staged": false
               }
             }
           },
@@ -121,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Chaos/Iinan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Chaos/Iinan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Religion/Chaos/Iinan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +199,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "80c4e5a74f063c3d",
+  "active": "6c8f06be53ca59b5",
   "lastOpenFiles": [
-    "Religion/Chaos/Chaos.md",
     "Religion/Chaos/Iinan.md",
+    "Religion/Chaos/Chaos.md",
     "Religion/Chaos/Aanan.md",
     "Ahda'an.md",
     "Chaos.md",
