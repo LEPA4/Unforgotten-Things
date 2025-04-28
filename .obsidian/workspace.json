@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "99ebf6986e1c88c3",
-        "type": "tabs",
-        "dimension": 51.231527093596064,
-        "children": [
-          {
-            "id": "61ae25213580aa12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Ages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "633cba836dd68804",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "7ef6195234fcb963",
         "type": "tabs",
-        "dimension": 48.76847290640394,
         "children": [
           {
             "id": "e78f49b88b698bde",
@@ -42,11 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Chaos - Sektnan/Chaos - Sektnan.md",
+                "file": "World/Ages.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ages"
             }
           }
         ]
@@ -68,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Ages.md",
+                "file": "Creatures/Races/Ardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ardians"
             }
           },
           {
@@ -138,10 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Ages.md",
+                "file": "Creatures/Races/Ardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ardians"
             }
           },
           {
@@ -152,7 +145,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -161,8 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Ages.md"
-              }
+                "file": "Creatures/Races/Ardians.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ardians"
             }
           },
           {
@@ -170,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -197,18 +196,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "61ae25213580aa12",
+  "active": "e78f49b88b698bde",
   "lastOpenFiles": [
-    "World/Ages.md",
-    "Systems/Life Essence.md",
-    "Religion/Chaos - Sektnan/Venan.md",
-    "Religion/Chaos - Sektnan/Ounan.md",
-    "Religion/Chaos - Sektnan/Iinan.md",
     "Religion/Chaos - Sektnan/Aanan.md",
-    "World/Ahda'an.md",
+    "Religion/Chaos - Sektnan/Ounan.md",
+    "Religion/Chaos - Sektnan/Venan.md",
+    "Religion/Chaos - Sektnan/Iinan.md",
+    "World/Ages.md",
     "Religion/Chaos - Sektnan/Chaos - Sektnan.md",
-    "conflict-files-obsidian-git.md",
     "Creatures/Races/Ardians.md",
+    "World/Ahda'an.md",
+    "Systems/Life Essence.md",
+    "conflict-files-obsidian-git.md",
     "Systems",
     "Creatures/Races",
     "Creatures",

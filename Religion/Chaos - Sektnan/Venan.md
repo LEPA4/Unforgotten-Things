@@ -6,7 +6,7 @@ tags:
 ## Introduction
 Venan is either the third or fourth personality of [[Chaos - Sektnan|Chaos]], sometimes believed to be created simultaneously with [[Ounan]].
 
-d perfecThis personality manages love and friendships. The connection of all rational creatures. Venan manages trust and relationships.
+This personality manages love and friendships. The connection of all rational creatures. Venan manages trust and relationships.
 
 How much rational creatures care for each other relies heavily on [[Aanan]]. If there is evil, then mistrust will prevail or hatred will blossom.
 
