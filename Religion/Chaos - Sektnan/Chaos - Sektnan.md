@@ -5,6 +5,7 @@ tags:
 ---
 ## Introduction
 Chaos (known as Sektnan) is split into four subsets, commonly referred to as the personalities of Chaos.
+
 These four personalities are:
 1. [[Iinan]] | Creative
 2. [[Aanan]] | Lawful
@@ -17,7 +18,7 @@ Being the ideas of Chaos, they are susceptible to it’s nature. Occasionally, t
 2. [[Aanan#Aknan|Aknan]] | Lawless
 3. [[Venan#Veknan|Veknan]] | Hate
 4. [[Ounan#Ouknan|Ouknan]] | Pessimistic
-Sometimes, it is for only a moment (being years at some moments) that these personalities will switch, which is the explanation for *most* disasters. However, whenever a personality swaps for a longer period of time, it is often called an [[Ages|Age]].
+Sometimes, it is for only a moment (being years at some moments) that these personalities will switch, which is the explanation for *most* disasters. However, whenever a personality swaps for a longer period of time, it is often called an [[Ages|Age]]. These shifts are known as *minor* catastrophe’s.
 ## Feuds
 Because Iinan has the most power— the ability to alter anything— the other personalities often distrust and dislike Iinan. Because of this, Chaos’ personalities agreed to create [[#Rules|rules]] by which they must abide.
 
